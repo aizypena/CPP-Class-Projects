@@ -1,8 +1,8 @@
 //formative assessment number 1.1
 /*
-INSTRICTION:
+INSTRUCTION:
 The program will prompt the user to choose the operation choice (from 1 to 5). Then it asks the 
-user to input two integer vales for the calculation
+user to input two integer values for the calculation
 */
 
 #include <iostream>
